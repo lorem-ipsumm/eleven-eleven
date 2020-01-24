@@ -7,3 +7,5 @@
  
  
  I plan on occasionaly tweaking how the "game" works as I learn what people like and are willing to do.
+ 
+ If you're interested in seeing what happens, you can check out the bot here: https://twitter.com/make_a_wish_bot
